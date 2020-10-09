@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import logo from "../logo.svg"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCartPlus } from "@fortawesome/free-solid-svg-icons";
-import styled from "styled-components";
 import ButtonContainer , {NavWarpper} from "./Button"
 export default class Navbar extends Component {
     render() {

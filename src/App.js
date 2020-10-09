@@ -4,8 +4,6 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
 // import 'bootstrap/dist/css/bootstrap-theme.css';
 import {Switch, Route} from "react-router-dom"
-import { faHome } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import Navbar from './components/Navbar';
 import ProductList from './components/ProductList';
 import Cart from './components/Cart';
